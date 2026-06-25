@@ -1,4 +1,3 @@
-
 <?php
 
-echo "BOT ONLINE";
+require_once "Shoxruz.php";
